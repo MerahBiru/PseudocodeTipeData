@@ -62,11 +62,11 @@ Char Absen No 4 = 'A'
 Char Absen No 5 = 'C'
 
 Algoritma :
-Output(Absen No 1);
-Output(Absen No 2);
-Output(Absen No 3);
-Output(Absen No 4);
-Output(Absen No 5);
+Output('Absen No 1');
+Output('Absen No 2');
+Output('Absen No 3');
+Output('Absen No 4');
+Output('Absen No 5');
 
 //String
 
@@ -80,8 +80,8 @@ String Putri : 'Wanita'
 String Alexa : 'Wanita'
 
 Algoritma :
-Output(Alexa);
-Output(Putri);
-Output(Agus);
+Output('Alexa');
+Output('Putri');
+Output('Agus');
 
 
