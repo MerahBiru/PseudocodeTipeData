@@ -1,0 +1,2 @@
+# PseudocodeTipeData
+Tugas Algoritma
