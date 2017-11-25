@@ -1,0 +1,87 @@
+// Pseudocode 5 Tipe Data
+
+//Integer
+
+Menampilkan_Hasil_Operasi_Data_Integer
+I.S : Memasukan Dua Bilangan Integer
+F.S : Menampilkan Hasil Operasi
+
+Deklarasi :
+Int a = 1
+Int b = 2
+
+Algoritma :
+Output(a+b);
+Output(a-b);
+Output(adivb);
+Output(amodb);
+Output(a>b);
+Output(a<b);
+
+//Real
+
+Menampilkan_Hasil_Operasi_Data_Real
+I.S : Memasukan Dua Bilangan Real
+F.S : Menampilkan Hasil Operasi
+
+Deklarasi :
+Real a = 5
+Real b = 10
+
+Algoritma :
+Output(4+(a*b);
+Output((adivb)+7);
+Output(8-(bmoda));
+
+//Boolean
+
+Menampilkan_Hasil_Operasi_Data_Boolean
+I.S : Memasukan Dua Bilangan Boolean
+F.S : Menampilkan Hasil Operasi
+
+Deklarasi :
+Boolean x = True
+Boolean y = False
+Boolean z = True
+
+Algoritma :
+Output(((xORy)ANDz)ANDy);
+Output((yORz)AND(xORy)ORz);
+
+//Char/Character
+
+Menampilkan_Nilai_Ujian_Sesuai_Absensi
+I.S : Memasukan Nomor Absensi
+F.S : Menampilkan Hasil Nilai
+
+Deklarasi :
+Char Absen No 1 = 'A'
+Char Absen No 2 = 'B'
+Char Absen No 3 = 'B'
+Char Absen No 4 = 'A'
+Char Absen No 5 = 'C'
+
+Algoritma :
+Output(Absen No 1);
+Output(Absen No 2);
+Output(Absen No 3);
+Output(Absen No 4);
+Output(Absen No 5);
+
+//String
+
+Menampilkan_Jenis_Kelamin_Sesuai_Nama
+I.S : Memasukan Nama
+F.S : Menampilkan Jenis Kelamin
+
+Deklarasi :
+String Agus : 'Pria'
+String Putri : 'Wanita'
+String Alexa : 'Wanita'
+
+Algoritma :
+Output(Alexa);
+Output(Putri);
+Output(Agus);
+
+
